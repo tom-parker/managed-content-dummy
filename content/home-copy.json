@@ -1,0 +1,10 @@
+{
+    "heading": "Welcome to the dummy app",
+    "items": [
+        {
+            "id": "benefit-1",
+            "title": "Simple setup",
+            "description": "This is a test content record."
+        }
+    ]
+}

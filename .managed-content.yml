@@ -1,0 +1,10 @@
+---
+version: 1
+application: managed-content-dummy
+label: Managed Content Dummy
+content:
+  id: home-copy
+  label: Homepage copy
+  description: Dummy homepage messaging for integration testing.
+  file: content/home-copy.json
+  schema: content/home-copy.schema.json
