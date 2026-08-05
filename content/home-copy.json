@@ -1,10 +1,15 @@
 {
-    "heading": "Welcome to the dummy app",
-    "items": [
-        {
-            "id": "benefit-1",
-            "title": "Simple setup already changed",
-            "description": "This is a test content record."
-        }
-    ]
+  "heading": "Welcome to the dummy app",
+  "items": [
+    {
+      "id": "benefit-1",
+      "title": "Simple setup already changed",
+      "description": "This is a test content record."
+    },
+    {
+      "id": "benefit-2",
+      "title": "Foo bar",
+      "description": "Foo"
+    }
+  ]
 }
